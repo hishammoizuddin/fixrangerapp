@@ -21,6 +21,8 @@ Firebase Authentication ensures a secure sign-up and login process, protecting u
 ### Job matching algorithm: 
 Implemented a customized job-matching algorithm that connects users with the most suitable FixRangers based on location, skill set, and availability.
 
+<img src="https://user-images.githubusercontent.com/78191578/230489228-401854a1-9d52-490c-b2e2-0014a715b292.JPG" width=50% height=50%>
+
 
 ## Metrics:
 
