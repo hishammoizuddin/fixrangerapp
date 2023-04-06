@@ -23,7 +23,7 @@ Implemented a customized job-matching algorithm that connects users with the mos
 
 <img src="https://user-images.githubusercontent.com/78191578/230489228-401854a1-9d52-490c-b2e2-0014a715b292.JPG" width=50% height=50%>
 
-<img src="https://user-images.githubusercontent.com/78191578/230489417-b79bbf4f-e4fd-4dcd-89c7-ae8ccc308859.gif" width=50% height=50%>
+<img src="https://user-images.githubusercontent.com/78191578/230489417-b79bbf4f-e4fd-4dcd-89c7-ae8ccc308859.gif" width=20% height=20%>
 
 
 ## Metrics:
