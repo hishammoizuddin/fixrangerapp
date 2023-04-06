@@ -1,6 +1,6 @@
 # FixRanger - Connecting Local Handymen/Handywomen with Users
 
-# <img src="https://user-images.githubusercontent.com/78191578/230497301-49751425-255d-4758-b738-d1018f6aa25c.png" width=50% height=50%>
+# <img src="https://user-images.githubusercontent.com/78191578/230497301-49751425-255d-4758-b738-d1018f6aa25c.png" width=25% height=25%>
 
 
 ##  Project Description:
