@@ -1,5 +1,8 @@
 # FixRanger - Connecting Local Handymen/Handywomen with Users
 
+# <img src="https://user-images.githubusercontent.com/78191578/230497301-49751425-255d-4758-b738-d1018f6aa25c.png" width=50% height=50%>
+
+
 ##  Project Description:
 
 FixRanger is a mobile application developed using Flutter/Dart that seamlessly connects local handymen/handywomen (referred to as FixRangers) with people in need of their services. The app leverages Firebase's BaaS services, such as Cloud Firestore, Authentication, and Hosting, to provide a robust and scalable solution for this on-demand platform. As a personal project, FixRanger showcases my ability to design, develop, and deploy a full-featured mobile application.
