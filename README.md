@@ -50,7 +50,7 @@ Git and GitHub for version control.
 
 ##  Project Repository:
 
-The source code for FixRanger can be found on GitHub at github.com/hishammoizuddin/fixrangerapp. The repository includes the complete codebase, documentation, and instructions for setting up the development environment.
+The source code for FixRanger can be found on GitHub at github.com/hishammoizuddin/fixrangerapp. The repository includes the complete codebase.
 
 
 # Conclusion:
