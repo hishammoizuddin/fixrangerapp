@@ -36,13 +36,13 @@ Implemented a customized job-matching algorithm that connects users with the mos
 ##  Technical Stack:
 
 ### Front-end: 
-Flutter and Dart for cross-platform mobile app development.
+Flutter Software Development Kit and Dart for cross-platform mobile app development.
 
 ### Back-end: 
 Firebase BaaS services (Cloud Firestore, Authentication, and Hosting) for real-time data management, user authentication, and hosting.
 
 ### Version Control: 
-Git and GitHub for version control and collaboration.
+Git and GitHub for version control.
 
 
 ##  Project Repository:
@@ -53,6 +53,9 @@ The source code for FixRanger can be found on GitHub at github.com/hishammoizudd
 # Conclusion:
 
 FixRanger demonstrates my proficiency in mobile app development and my ability to design and implement scalable, real-time applications using Firebase services. While this project is not released publicly, it serves as a strong example of my technical capabilities and can be used as a reference for future employment opportunities.
+
+<img src="https://user-images.githubusercontent.com/78191578/230489936-13345de6-2583-4dd3-91f7-8d7b3b833cdd.JPG" width=50% height=50%>
+
 
 #### Author - Mohammed Hisham Moizuddin
 #### https://hishammoizuddin.wixsite.com/hishammoizuddin
