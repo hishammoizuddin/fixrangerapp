@@ -28,9 +28,9 @@ Implemented a customized job-matching algorithm that connects users with the mos
 
 ## Metrics:
 
-####  Developed a total of 20 - 25 screens for both user and FixRanger portals, offering an intuitive and easy-to-navigate interface.
-####  Successfully tested the app on both Android and iOS devices, ensuring cross-platform compatibility.
-####  Handled multiple simulated concurrent users during load testing to ensure the app's scalability and performance.
+#####  Developed a total of 20 - 25 screens for both user and FixRanger portals, offering an intuitive and easy-to-navigate interface.
+#####  Successfully tested the app on both Android and iOS devices, ensuring cross-platform compatibility.
+#####  Handled multiple simulated concurrent users during load testing to ensure the app's scalability and performance.
 
 
 ##  Technical Stack:
