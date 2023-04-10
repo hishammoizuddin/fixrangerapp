@@ -57,7 +57,7 @@ The source code for FixRanger can be found on GitHub at github.com/hishammoizudd
 
 FixRanger demonstrates my proficiency in mobile app development and my ability to design and implement scalable, real-time applications using Firebase services. While this project is not released publicly, it serves as a strong example of my technical capabilities and can be used as a reference for future employment opportunities.
 
-<img src="https://user-images.githubusercontent.com/78191578/230489936-13345de6-2583-4dd3-91f7-8d7b3b833cdd.JPG" width=50% height=50%>
+<img src="https://user-images.githubusercontent.com/78191578/230489936-13345de6-2583-4dd3-91f7-8d7b3b833cdd.JPG" width=50% height=50%> 
 
 
 #### Author - Mohammed Hisham Moizuddin
